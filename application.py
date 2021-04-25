@@ -59,7 +59,7 @@ class Hello(Resource):
 
     def get(self):
         return {
-            'usage': 'Send a GET request to /myboard/<int:size>/<string:board>',
+            'usage': 'Send a GET request to /myboard/<int:size>/<string:board>. Example: http://127.0.0.1:5000/myboard/4/itbeoncufubwsnap',
             'contraints': [
                 {
                     'size': 'Size of the board should be between 3>size<11',

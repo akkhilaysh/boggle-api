@@ -57,6 +57,8 @@ Send a GET request to /myboard/<int:size>/<string:board>
         *Only alphabets allowed
         *For a board of size {size}x{size} please enter { size x size } letters.
 
+*Example: http://127.0.0.1:5000/myboard/4/itbeoncufubwsnap
+
 
 ## Authors
 
