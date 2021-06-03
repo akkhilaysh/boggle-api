@@ -7,7 +7,7 @@ Solves Boggle by passing a board, dictionary of words using re-usable classes to
 ## Run using Docker
 
 ```bash
-git clone https://github.com/akkhilaysh/boggle-api.git
+git clone https://github.com/akkhilaysh/docker-example-boggle-api.git
 ```
 
 ```bash
@@ -29,7 +29,7 @@ Go to http://127.0.0.1:5000/hello to get basic information on how to use the api
 ## Running Locally
 
 ```bash
-git clone https://github.com/akkhilaysh/boggle-api.git
+git clone https://github.com/akkhilaysh/docker-example-boggle-api.git
 ```
 
 ```bash
